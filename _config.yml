@@ -1,9 +1,9 @@
 # Basic
 title: Yuki の Hamburg
-subtitle: 私と共に歩む限り 我らの前に敵は無い
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">祝，旅途愉快</a>
-description: Have a good trip.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: 每天进步一点点
+welcome_message: <a href="https://github.com/chiefky" target="_blank">人生は自転車（じてんしゃ）に乗（の）るのと似（に）ている。あなたがペダルを踏（ふ）むのをやめない限（かぎ）り .</a>
+description: 初心（しょしん）忘（わす）るべからず
+creator: <a href="https://github.com/chiefky">@Yuki</a>
 
 url: "https://github.com"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
@@ -22,8 +22,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: Button A, description: My Projects, url: 'https://github.com/chiefky'}
+    - {title: Button B, description: A button, url: 'https://github.com/chiefky'}
 
 # Pagination
 plugins: [jekyll-paginate]
@@ -37,11 +37,9 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: Yuki_Hamburg
+    github: chiefky
+    mail: ky7_333@163.com
 
 # Google Analytics
 ga:
