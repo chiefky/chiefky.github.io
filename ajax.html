@@ -20,7 +20,7 @@
 		}
 		
 		//2.创建http请求,并设置请求地址
-		ajax.open('post','response.php');
+		ajax.open('post','https://www.baidu.com');
 		//post方式传递数据是模仿form表单传递给服务器的,要设置header头协议
 		ajax.setRequestHeader("content-type","application/x-www-form-urlencoded");
 		
@@ -40,4 +40,4 @@
 	<p>用户名 : <input type="text" name="username" value="" οnblur="f1()" /></p>
 	<p>邮箱 : <input type="text" name="email" value="" /></p>
 	<div id="result" style="color:green;"></div>
-	<!-- <input type="button"  value="提交" οnclick="f2()" /> -->
+	<input type="button"  value="提交" οnclick="f2()" />
